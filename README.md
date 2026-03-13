@@ -21,8 +21,14 @@
 
 ## 👨‍💻 Sobre mim
 
-Sou desenvolvedor Full Stack em formação, com experiência prévia em vendas que hoje complementa minha visão de produto e capacidade de comunicação técnica.  
-Concentro meus estudos em **aplicações web e mobile modernas**, atuando no front-end e no back-end principalmente com o ecossistema **JavaScript / TypeScript**.
+Olá! Sou **Vinicius de Araujo Silva**, desenvolvedor Full Stack em formação, natural de Franca-SP.  
+Atualmente curso **Tecnologia em Desenvolvimento de Software Multiplataforma** na **FATEC Franca** (2024–2027), onde desenvolvo projetos práticos que cobrem desde interfaces web/mobile até APIs robustas com banco de dados.
+
+Antes de entrar para a área de tecnologia, atuei em **vendas**, o que me deu uma visão orientada ao cliente e habilidades de comunicação que aplico no desenvolvimento de produtos digitais: entender o problema antes de escrever a primeira linha de código.
+
+Meu foco principal é o ecossistema **JavaScript / TypeScript**, tanto no front-end (React, React Native) quanto no back-end (Node.js, NestJS, Express). Gosto de construir aplicações completas, desde o banco de dados até a interface do usuário, e tenho especial interesse em **arquitetura de software**, **CI/CD** e **boas práticas de engenharia**.
+
+Busco minha primeira oportunidade profissional como **Desenvolvedor Júnior** ou **Estagiário**, onde possa contribuir com energia, aprendizado contínuo e compromisso com qualidade de código.
 
 ---
 
