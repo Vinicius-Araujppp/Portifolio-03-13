@@ -221,4 +221,3 @@ Estou aberto a oportunidades como **Desenvolvedor Júnior** ou **Estagiário em 
 
 ---
 
-<p align="center">⭐ Se algum projeto te ajudou, considere deixar uma estrela!</p>
