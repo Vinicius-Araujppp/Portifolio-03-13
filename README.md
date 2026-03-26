@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Vinicius-Araujppp/Vinicius-Araujppp/main/banner.png" width="100%" alt="Vinicius de Araujo Banner">
-</p>
+
 
 <h1 align="center">Vinicius de Araujo Silva</h1>
 
