@@ -75,12 +75,7 @@ Minha atuação é pautada por princípios que definem a maturidade de um sistem
 
 ---
 
-## 📊 Estatísticas & Insights
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Vinicius-Araujppp&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vinicius-Araujppp&layout=compact&theme=tokyonight"/>
-</p>
 
 ---
 
