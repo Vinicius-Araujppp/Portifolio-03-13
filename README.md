@@ -46,7 +46,11 @@ Domino padrões de arquitetura moderna, com foco em **NestJS**, **Microserviços
 
 ## 📁 Projetos de Engenharia
 
-### 🏛️ [Nest-api](https://github.com/Vinicius-Araujppp/Nest-api) — Enterprise-Grade RESTful API
+### 🏛️ [Dinners Burger ](https://github.com/Vinicius-Araujppp/Pi_1_Semestre) — Front-end para hamburgueria 
+>**Frontend Engine** Frontend simples criado em HTML e CSS Responsivo
+>
+
+### 🏛️ [Ecommerce Api](https://github.com/Vinicius-Araujppp/ecommerce-api-nest) — Enterprise-Grade RESTful API
 > **Backend Engine** focado em escalabilidade e desacoplamento de camadas.
 
 * **Destaque:** Implementação de arquitetura baseada em **Injeção de Dependência**, garantindo alta testabilidade e modularização.
